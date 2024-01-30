@@ -1,0 +1,1 @@
+Este código Python cria uma fábrica de operações matemáticas com funções aninhadas, manipulação de exceções e uso de parâmetros arbitrários. Utilizando estruturas de controle, decide qual função executar com base na operação selecionada, destacando habilidades avançadas em programação modular e organização de código.
